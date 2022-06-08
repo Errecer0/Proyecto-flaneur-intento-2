@@ -1,0 +1,399 @@
+@media only screen and (max-width: 500px) {
+    body  {
+        background-color: black;
+        font-size: 10px;
+        transition: all 1s;
+    }
+    header {
+        background-color: black;
+        font-size: 25px;
+        transition: all 1s;
+    }
+    footer {
+        background-color: black;
+        transition: all 1s;
+    }
+    iframe {
+        width: 50px;
+        height: 50px;
+    }
+
+}
+
+
+body {
+    transition: all 10s;
+    font-family:'Nixie One', cursive;
+    background-image: url(Fotos/Background/backgroundimage.jpg);
+    
+}
+
+header {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+.links {
+    margin-left: 20px;
+}
+
+.listasubm {
+    width: 20px;
+}
+
+.sub {
+    width: 20px;
+}  
+
+.flaneur {
+    font-size: 50px;
+}
+
+
+
+section .elvi {
+  text-align: center;  
+}
+
+li {
+    list-style: none;
+    line-height: 2.5;
+}
+
+li:hover {
+    transform: scale(1.10);
+    transition: 1s;
+}
+
+
+.escriba:hover {
+   font-weight: bold;
+   transition: all 0.3s;
+   transform: scale(1.08);
+}
+
+
+
+h1 {
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all 1s;
+    font-size: 50px;
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all 1s;
+    font-size: 35px;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+    transition: all 1s;
+    font-size: 27px;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    transition: all 1s;
+    font-size: 22px;
+}
+
+p {
+    color: white;
+    margin: 30px;
+    transition: all 1s;
+    text-align: center;
+}
+
+.tr1 h2 {
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.tr1 p {
+    font-style: italic;
+    font-size: 13px;
+      
+}
+
+
+
+.elifr {
+    text-align: center;
+    transition: all 1s;
+}
+
+
+.escriba {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+.hform {
+    text-align: center;
+    padding-top: 15px;
+   
+}
+
+form {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    background-color:rgb(0,0,0,0.5);
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    margin: auto;
+    width: 500px;
+}
+
+.formna {
+    padding-top: 5px;
+}
+
+.fomne {
+    padding-top: 15px;
+}
+
+.formce {
+    padding-top: 5px;
+}
+
+.formtel {
+    padding-top: 5px;
+}
+
+.formdc {
+    padding-top: 5px;
+}
+
+.formbot {
+    padding-top: 5px;
+}
+
+.floatclass {
+    margin-top: 9%;
+}
+.contact {
+    color: white;
+     text-align: center;
+     letter-spacing: 2px;
+     margin-bottom: 20%;
+
+}
+
+
+h5 {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    
+}
+
+article {
+
+    background-size: cover;
+    color: white;
+}
+
+
+.home {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: white;
+    font-size: 50px;
+}
+
+.home:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.errorn {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}
+
+    footer {
+        text-align: center;
+        width: 100%;
+    }
+
+    .pie {
+        text-align: center;
+        color: white;
+        letter-spacing: 2px;
+    }
+
+
+
+.mariu {
+    letter-spacing: 2px;
+    margin-bottom: 10%;
+    margin-top: 10px;
+}
+
+table {
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    margin-top: 10%;
+}
+
+.err {
+    color: white; 
+}
+
+
+.casorios {
+    align-items: center;
+}
+
+
+
+.todoresp {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.divh {
+    text-align: center;
+    width: 100%;
+}
+
+
+.divart {
+    width: 50%;
+    z-index: 100;
+}
+
+
+
+.divpubl{
+    align-items: center;
+    width: 50%;
+    margin: auto;    
+}
+
+
+
+.divnuesof {
+    align-items: center;
+    width: 50%;
+}
+
+.divcon {
+
+    align-items: center;
+    width: 50%;
+    
+}
+
+.divform {
+    text-align: center;
+    width: 100%;
+}
+
+.iconos {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    display: flex;
+    color: white;
+    height: 75px;
+    width: 75px;
+    margin: 0 15px;
+    border-radius: 0px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 35px;
+    transition: all 1s;
+    
+}
+
+.red:hover {
+    transform: scale(2);
+}
+
+.headantes {
+    width: 100%;
+}
+
+#carouselExampleCaptions2 {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#carouselExampleDark {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+
+.descv1 p {
+    font-size: 10px;
+    font-style: italic;
+    text-align: center;
+  }
+  
+    
+body .castit {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.postalescont {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.fotop1 {
+    
+    width: 50%;
+}
+
+.fotop1 img {
+    max-width: 300%;
+}
+
+.postalescont2 {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.fotop2 {
+    
+    width: 50%;
+}
+
+.fotop2 img {
+    max-width: 300%;
+}
+

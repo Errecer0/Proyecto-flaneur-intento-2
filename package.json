@@ -1,0 +1,26 @@
+{
+  "name": "flaneurar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errecer0/GIT-GITHUB-FlaneurAr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Errecer0/GIT-GITHUB-FlaneurAr/issues"
+  },
+  "homepage": "https://github.com/Errecer0/GIT-GITHUB-FlaneurAr#readme",
+  "description": ""
+}

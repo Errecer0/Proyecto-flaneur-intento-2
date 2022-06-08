@@ -1,0 +1,39 @@
+
+body {
+    transition: all 1s;
+}
+
+.links {
+  
+    padding-left: 15px;
+
+    a {
+        display: block;
+        line-height: 2.5;
+        font-family:'Nixie One', cursive;
+        color: white;
+        text-decoration: none;
+        letter-spacing: 2px;
+        transition: all 1s;
+       
+        }
+
+
+      ul {
+          display: none;
+         
+      }   
+
+    p {
+        display: none;
+        
+      
+    }
+ 
+    & :target {
+        display: block;
+        transition: 3s;
+        
+    }
+
+}
